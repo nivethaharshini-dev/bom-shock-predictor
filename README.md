@@ -89,7 +89,7 @@ npm run dev --prefix frontend  # Frontend: localhost:3000
 | Rahul R | Machine learning engineer |
 | Naresh Kumar R | Backend developer |
 | Lakshanaa A M | Project lead and presenter |
-| Lavanya P | Frntend developer |
+| Lavanya P | Frontend developer |
 | Nivethalakshmi C B | Database handling |
 | Nivetha Harshini J | Database handling |
 
